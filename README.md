@@ -1,12 +1,21 @@
-# React + Vite
+React + Vite Car Finder
+This is a Car Finder Web App built with React and Vite that allows users to search for cars, view car details, and filter cars based on various criteria. The car data is stored in a JSON file containing information about 50 different cars.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+Search for Cars: Users can search for cars based on make, model, and year.
 
-Currently, two official plugins are available:
+Filter Cars: Filter cars based on price range, fuel type, and seating capacity.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Car Details: View detailed information about each car, including make, model, year, and features.
 
-## Expanding the ESLint configuration
+Responsive UI: The app is built with Tailwind CSS, ensuring a modern and responsive design.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Tech Stack
+React: A JavaScript library for building user interfaces.
+
+Vite: A fast build tool and development server for modern web projects.
+
+Tailwind CSS: A utility-first CSS framework for building custom designs.
+
+JSON: The car data is stored in a local JSON file that contains details about 50 cars.
+
