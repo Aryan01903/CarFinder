@@ -1,0 +1,503 @@
+[
+    {
+      "id": 1,
+      "make": "Toyota",
+      "model": "Corolla",
+      "price": 20000,
+      "fuel": "Petrol",
+      "seats": 5,
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQotWSTSu7cqOs5RN-WI-6IB-ELsbmGGbD91l9_9D13ixNp8YEuwdNLJ0Okyj1gGFij3vjpjjy6GPve9wxYtMCn4AZKBlQv_JUeOnV8vNZ3",
+      "description": "A reliable compact car with excellent fuel efficiency."
+    },
+    {
+      "id": 2,
+      "make": "Honda",
+      "model": "Civic",
+      "price": 22000,
+      "fuel": "Petrol",
+      "seats": 5,
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6b1iluf0YiHgB-Ui5MYK93F-8Xhm7_GCEpGBlgCw-NInwzi1OF9teW3k6sIeKvfeHilblTXrt9SeKqFNXUI7_EAdVC3pOsTpodTWjljDS",
+      "description": "A stylish compact car known for its reliability and performance."
+    },
+    {
+      "id": 3,
+      "make": "Ford",
+      "model": "Focus",
+      "price": 21000,
+      "fuel": "Petrol",
+      "seats": 5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-udSxtjY-jygkpAxPEz7Lddgi39VkLQ229w&s",
+      "description": "A compact car offering a smooth ride and tech-savvy features."
+    },
+    {
+      "id": 4,
+      "make": "BMW",
+      "model": "X5",
+      "price": 60000,
+      "fuel": "Diesel",
+      "seats": 5,
+      "image": "https://imgd.aeplcdn.com/370x208/n/cw/ec/152681/x5-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80",
+      "description": "A luxury SUV with excellent handling and a comfortable ride."
+    },
+    {
+      "id": 5,
+      "make": "Audi",
+      "model": "A4",
+      "price": 45000,
+      "fuel": "Diesel",
+      "seats": 5,
+      "image": "https://imgd.aeplcdn.com/370x208/cw/ec/22613/Audi-A4-Right-Front-Three-Quarter-165484.jpg?wm=0&q=80",
+      "description": "A premium sedan with a sleek design and advanced technology."
+    },
+    {
+      "id": 6,
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "price": 50000,
+      "fuel": "Petrol",
+      "seats": 5,
+      "image": "https://imgd.aeplcdn.com/370x208/n/cw/ec/150621/g-class-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80",
+      "description": "A luxury sedan with exceptional comfort and safety features."
+    },
+    {
+      "id": 7,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "price": 30000,
+      "fuel": "Petrol",
+      "seats": 5,
+      "image": "https://imgd.aeplcdn.com/370x208/n/cw/ec/132711/grand-cherokee-exterior-right-front-three-quarter.jpeg?isig=0&q=80",
+      "description": "A spacious compact SUV offering smooth handling and plenty of features."
+    },
+    {
+      "id": 8,
+      "make": "Nissan",
+      "model": "Altima",
+      "price": 27000,
+      "fuel": "Petrol",
+      "seats": 5,
+      "image": "https://imgd.aeplcdn.com/370x208/n/cw/ec/173325/magnite-facelift-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80",
+      "description": "A midsize sedan offering a comfortable ride and good fuel economy."
+    },
+    {
+      "id": 9,
+      "make": "Kia",
+      "model": "Sorento",
+      "price": 38000,
+      "fuel": "Petrol",
+      "seats": 7,
+      "image": "https://imgd.aeplcdn.com/370x208/n/cw/ec/174323/seltos-exterior-right-front-three-quarter.jpeg?isig=0&q=80",
+      "description": "A three-row SUV with ample space and modern technology."
+    },
+    {
+      "id": 10,
+      "make": "Mazda",
+      "model": "CX-5",
+      "price": 32000,
+      "fuel": "Petrol",
+      "seats": 5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8GMoTKM7JpmbvGG3g39_o0kbY3aHJo1X7LA&s",
+      "description": "A stylish compact SUV with good handling and a comfortable ride."
+    },
+    {
+      "id": 11,
+      "make": "Honda",
+      "model": "CR-V",
+      "price": 35000,
+      "fuel": "Petrol",
+      "seats": 5,
+      "image": "https://imgd.aeplcdn.com/370x208/n/cw/ec/134113/new-wr-v-exterior-left-front-three-quarter-2.jpeg?isig=0&q=80",
+      "description": "A popular compact SUV with a spacious interior and great reliability."
+    },
+    {
+      "id": 12,
+      "make": "Subaru",
+      "model": "Outback",
+      "price": 37000,
+      "fuel": "Petrol",
+      "seats": 5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnRNLPv_WhpPUcfZfxb4BL6llMWH9s7P29wg&s",
+      "description": "A rugged wagon with off-road capabilities and plenty of cargo space."
+    },
+    {
+      "id": 13,
+      "make": "Tesla",
+      "model": "Model 3",
+      "price": 55000,
+      "fuel": "Electric",
+      "seats": 5,
+      "image": "https://imgd.aeplcdn.com/370x208/n/cw/ec/37138/model-3-exterior-right-front-three-quarter.jpeg?isig=0&q=80",
+      "description": "An electric sedan offering incredible performance and advanced features."
+    },
+    {
+      "id": 14,
+      "make": "Ford",
+      "model": "Mustang",
+      "price": 45000,
+      "fuel": "Petrol",
+      "seats": 4,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQRH7izlAdFmYbRQH2LRyGGN_WGyq_xDgDlA&s",
+      "description": "An iconic American muscle car with powerful engines and aggressive styling."
+    },
+    {
+      "id": 15,
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "price": 47000,
+      "fuel": "Petrol",
+      "seats": 4,
+      "image": "https://hagerty-media-prod.imgix.net/2020/12/2019-Chevrolet-Camaro-ZL1-1LE-018-scaled.jpg?auto=format%2Ccompress&ixlib=php-3.3.0",
+      "description": "A high-performance sports car with a sleek and modern design."
+    },
+    {
+      "id": 16,
+      "make": "BMW",
+      "model": "M3",
+      "price": 65000,
+      "fuel": "Petrol",
+      "seats": 5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReBztQRFCv8k1KJc-l3yyTcrVteEnOjKJaXQ&s",
+      "description": "A high-performance sports sedan known for its agility and handling."
+    },
+    {
+      "id": 17,
+      "make": "Jaguar",
+      "model": "F-PACE",
+      "price": 67000,
+      "fuel": "Diesel",
+      "seats": 5,
+      "image": "https://imgd.aeplcdn.com/370x208/cw/ec/20222/Jaguar-FPace-Right-Front-Three-Quarter-81369.jpg?wm=0&q=80",
+      "description": "A luxury SUV combining sporty performance with comfort and style."
+    },
+    {
+      "id": 18,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "price": 20000,
+      "fuel": "Petrol",
+      "seats": 5,
+      "image": "https://imgd.aeplcdn.com/370x208/n/cw/ec/106815/creta-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80",
+      "description": "A compact sedan offering great value, fuel efficiency, and tech features."
+    },
+    {
+      "id": 19,
+      "make": "Toyota",
+      "model": "Highlander",
+      "price": 45000,
+      "fuel": "Petrol",
+      "seats": 7,
+      "image": "https://imgd.aeplcdn.com/370x208/n/cw/ec/124027/hyryder-exterior-right-front-three-quarter-73.jpeg?isig=0&q=80",
+      "description": "A midsize SUV with three-row seating and great family-friendly features."
+    },
+    {
+      "id": 20,
+      "make": "Mazda",
+      "model": "Mazda3",
+      "price": 25000,
+      "fuel": "Petrol",
+      "seats": 5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTicapEoLE-YaWQxT14YXJCJFIPqg4sAsq0GQ&s",
+      "description": "A compact car with sporty handling and stylish design."
+    },
+    {
+      "id": 21,
+      "make": "Nissan",
+      "model": "Murano",
+      "price": 40000,
+      "fuel": "Petrol",
+      "seats": 5,
+      "image": "https://example.com/images/nissan_murano.jpg",
+      "description": "A midsize SUV offering a smooth ride and a luxurious interior."
+    },
+    {
+      "id": 22,
+      "make": "Honda",
+      "model": "Pilot",
+      "price": 47000,
+      "fuel": "Petrol",
+      "seats": 8,
+      "image": "https://example.com/images/honda_pilot.jpg",
+      "description": "A three-row SUV with ample space for families and a smooth ride."
+    },
+    {
+      "id": 23,
+      "make": "Ford",
+      "model": "Explorer",
+      "price": 48000,
+      "fuel": "Petrol",
+      "seats": 7,
+      "image": "https://example.com/images/ford_explorer.jpg",
+      "description": "A rugged SUV with off-road capabilities and a spacious interior."
+    },
+    {
+      "id": 24,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "price": 53000,
+      "fuel": "Petrol",
+      "seats": 5,
+      "image": "https://example.com/images/jeep_grandcherokee.jpg",
+      "description": "An off-road SUV with a luxurious interior and powerful engines."
+    },
+    {
+      "id": 25,
+      "make": "BMW",
+      "model": "i8",
+      "price": 145000,
+      "fuel": "Hybrid",
+      "seats": 2,
+      "image": "https://example.com/images/bmw_i8.jpg",
+      "description": "A hybrid sports car with a futuristic design and electrifying performance."
+    },
+    {
+      "id": 26,
+      "make": "Chevrolet",
+      "model": "Cruze",
+      "price": 21000,
+      "fuel": "Petrol",
+      "seats": 5,
+      "image": "https://example.com/images/chevrolet_cruze.jpg",
+      "description": "A compact car with a comfortable ride and good fuel efficiency."
+    },
+    {
+      "id": 27,
+      "make": "Ford",
+      "model": "Fusion",
+      "price": 24000,
+      "fuel": "Petrol",
+      "seats": 5,
+      "image": "https://example.com/images/ford_fusion.jpg",
+      "description": "A midsize sedan with a refined ride and spacious interior."
+    },
+    {
+      "id": 28,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "price": 33000,
+      "fuel": "Petrol",
+      "seats": 5,
+      "image": "https://example.com/images/toyota_tacoma.jpg",
+      "description": "A reliable pickup truck with rugged off-road capability."
+    },
+    {
+      "id": 29,
+      "make": "Nissan",
+      "model": "370Z",
+      "price": 38000,
+      "fuel": "Petrol",
+      "seats": 2,
+      "image": "https://example.com/images/nissan_370z.jpg",
+      "description": "A sports car that offers thrilling performance and sleek design."
+    },
+    {
+      "id": 30,
+      "make": "BMW",
+      "model": "M3",
+      "price": 65000,
+      "fuel": "Petrol",
+      "seats": 5,
+      "image": "https://example.com/images/bmw_m3.jpg",
+      "description": "A high-performance sports sedan known for its speed and agility."
+    },
+    {
+      "id": 31,
+      "make": "Hyundai",
+      "model": "Kona",
+      "price": 27000,
+      "fuel": "Petrol",
+      "seats": 5,
+      "image": "https://example.com/images/hyundai_kona.jpg",
+      "description": "A subcompact SUV with modern features and a smooth ride."
+    },
+    {
+      "id": 32,
+      "make": "Mazda",
+      "model": "CX-30",
+      "price": 32000,
+      "fuel": "Petrol",
+      "seats": 5,
+      "image": "https://example.com/images/mazda_cx30.jpg",
+      "description": "A compact SUV with a stylish exterior and premium interior."
+    },
+    {
+      "id": 33,
+      "make": "Subaru",
+      "model": "Impreza",
+      "price": 22000,
+      "fuel": "Petrol",
+      "seats": 5,
+      "image": "https://example.com/images/subaru_impreza.jpg",
+      "description": "A compact car with all-wheel drive and great handling."
+    },
+    {
+      "id": 34,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "price": 35000,
+      "fuel": "Petrol",
+      "seats": 5,
+      "image": "https://example.com/images/chevrolet_silverado1500.jpg",
+      "description": "A full-size pickup truck with excellent towing capabilities."
+    },
+    {
+      "id": 35,
+      "make": "Honda",
+      "model": "Fit",
+      "price": 18000,
+      "fuel": "Petrol",
+      "seats": 5,
+      "image": "https://example.com/images/honda_fit.jpg",
+      "description": "A compact hatchback offering great fuel efficiency and practicality."
+    },
+    {
+      "id": 36,
+      "make": "Ford",
+      "model": "Escape",
+      "price": 28000,
+      "fuel": "Petrol",
+      "seats": 5,
+      "image": "https://example.com/images/ford_escape.jpg",
+      "description": "A compact SUV offering a comfortable ride and ample cargo space."
+    },
+    {
+      "id": 37,
+      "make": "Kia",
+      "model": "Sportage",
+      "price": 29000,
+      "fuel": "Petrol",
+      "seats": 5,
+      "image": "https://example.com/images/kia_sportage.jpg",
+      "description": "A compact SUV with good value, modern features, and a smooth ride."
+    },
+    {
+      "id": 38,
+      "make": "Audi",
+      "model": "A4",
+      "price": 45000,
+      "fuel": "Diesel",
+      "seats": 5,
+      "image": "https://example.com/images/audi_a4.jpg",
+      "description": "A luxury sedan known for its refined interior and smooth drive."
+    },
+    {
+      "id": 39,
+      "make": "Mercedes-Benz",
+      "model": "GLE",
+      "price": 75000,
+      "fuel": "Petrol",
+      "seats": 5,
+      "image": "https://example.com/images/mercedes_benz_gle.jpg",
+      "description": "A luxurious SUV with a high-end interior and advanced technology."
+    },
+    {
+      "id": 40,
+      "make": "Jaguar",
+      "model": "F-PACE",
+      "price": 67000,
+      "fuel": "Diesel",
+      "seats": 5,
+      "image": "https://example.com/images/jaguar_fpace.jpg",
+      "description": "A luxury SUV combining style, performance, and practicality."
+    },
+    {
+      "id": 41,
+      "make": "Tesla",
+      "model": "Model S",
+      "price": 85000,
+      "fuel": "Electric",
+      "seats": 5,
+      "image": "https://example.com/images/tesla_models.jpg",
+      "description": "An electric sedan with incredible performance and range."
+    },
+    {
+      "id": 42,
+      "make": "BMW",
+      "model": "X3",
+      "price": 50000,
+      "fuel": "Diesel",
+      "seats": 5,
+      "image": "https://example.com/images/bmw_x3.jpg",
+      "description": "A luxurious compact SUV offering a premium interior and handling."
+    },
+    {
+      "id": 43,
+      "make": "Audi",
+      "model": "Q7",
+      "price": 75000,
+      "fuel": "Diesel",
+      "seats": 7,
+      "image": "https://example.com/images/audi_q7.jpg",
+      "description": "A spacious luxury SUV that offers ample seating and comfort."
+    },
+    {
+      "id": 44,
+      "make": "Ford",
+      "model": "Mustang",
+      "price": 55000,
+      "fuel": "Petrol",
+      "seats": 4,
+      "image": "https://example.com/images/ford_mustang.jpg",
+      "description": "An iconic American muscle car with powerful engines and stylish design."
+    },
+    {
+      "id": 45,
+      "make": "Nissan",
+      "model": "Rogue",
+      "price": 30000,
+      "fuel": "Petrol",
+      "seats": 5,
+      "image": "https://example.com/images/nissan_rogue.jpg",
+      "description": "A compact crossover SUV that offers great versatility and comfort."
+    },
+    {
+      "id": 46,
+      "make": "Honda",
+      "model": "CR-V",
+      "price": 35000,
+      "fuel": "Petrol",
+      "seats": 5,
+      "image": "https://example.com/images/honda_crv.jpg",
+      "description": "A spacious and reliable compact SUV perfect for families."
+    },
+    {
+      "id": 47,
+      "make": "Mazda",
+      "model": "MX-5 Miata RF",
+      "price": 35000,
+      "fuel": "Petrol",
+      "seats": 2,
+      "image": "https://example.com/images/mazda_miata_rf.jpg",
+      "description": "A hardtop convertible sports car with agile handling and fun driving."
+    },
+    {
+      "id": 48,
+      "make": "Toyota",
+      "model": "Land Cruiser",
+      "price": 85000,
+      "fuel": "Diesel",
+      "seats": 7,
+      "image": "https://example.com/images/toyota_land_cruiser.jpg",
+      "description": "A rugged off-road SUV with seating for up to 7 passengers."
+    },
+    {
+      "id": 49,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "price": 60000,
+      "fuel": "Petrol",
+      "seats": 5,
+      "image": "https://example.com/images/jeep_grand_cherokee.jpg",
+      "description": "A capable off-road SUV with luxury and comfort for everyday use."
+    },
+    {
+      "id": 50,
+      "make": "BMW",
+      "model": "Z4",
+      "price": 70000,
+      "fuel": "Petrol",
+      "seats": 2,
+      "image": "https://example.com/images/bmw_z4.jpg",
+      "description": "A luxury sports car offering sharp handling and a refined interior."
+    }
+]
+  
